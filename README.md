@@ -11,7 +11,7 @@ Pour lancer le projet:
 ```bash
 python Workspace.py
 
-automatiser_l_insertion_db.py
+python automatiser_l_insertion_db.py
 
 python prepocessing.py
 
