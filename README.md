@@ -1,7 +1,7 @@
 Pour récupérer le projet:
 
 ```bash
-git clone https://github.com/Santoudllo/Paris-Traffic-Regulation-Analysis
+git clone https://github.com/jayaaan/YBOOST-TRAFIC-ROUTIER
 
 conda install -c conda-forge numpy=1.26 pandas scikit-learn scipy numexpr bottleneck tensorflow streamlit folium geopy streamlit-folium
 ```
